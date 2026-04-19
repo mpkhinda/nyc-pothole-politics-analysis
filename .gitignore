@@ -208,4 +208,4 @@ __marimo__/
 
 # Other
 .DS_Store
-data/raw/Street_Pothole_Work_Orders_-_Closed_(Dataset)_20260417.geojson
+data/raw/Street_Pothole_Work_Orders_Closed.geojson
