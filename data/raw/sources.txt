@@ -1,5 +1,10 @@
+! Note: Data downloads with a date suffix from NYC Open Data portal, rename to remove before running analysis
+
 Street Pothole Work Orders Dataset:
 https://data.cityofnewyork.us/Transportation/Street-Pothole-Work-Orders-Closed-Dataset-/x9wy-ing4/about_data
 
 311 Service Requests from 2020 to Present Dataset (filter for Problem Detail contains "Pothole"):
 https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data
+
+Road Centerlines:
+https://data.cityofnewyork.us/City-Government/Centerline/inkn-q76z/about_data
